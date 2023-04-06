@@ -1,0 +1,16 @@
+{
+  "index": "Introduction",
+  "versions": "Changelogs",
+  "npm": "NPM Package",
+  "commands": "Commands",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/GiveAwaysBotDC",
+    "newWindow": true
+  }
+}
