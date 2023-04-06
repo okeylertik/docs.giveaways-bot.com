@@ -114,7 +114,7 @@ export default {
       description: 'Documentation for the GiveAways Bot',
       openGraph: {
         images: [
-          { url: 'https://cdn.discordapp.com/attachments/1003714890638303232/1068603211075825787/Rounded_20221113_102852.png' }
+          { url: 'https://cdn.discordapp.com/attachments/1003714890638303232/1092081469343666287/blue.jpg' }
         ]
       },
       titleTemplate: '%s – GiveAways Docs',
