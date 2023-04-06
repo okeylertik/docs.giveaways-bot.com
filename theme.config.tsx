@@ -10,8 +10,8 @@ export default {
     link: 'https://discord.gg/giveawaysbot'
   },
   navigation: {
-    prev: false,
-    next: false
+    prev: true,
+    next: true
   },
   docsRepositoryBase:
     'https://github.com/giveawaysbot-me/docs.giveaways-bot.com/tree/main/',
