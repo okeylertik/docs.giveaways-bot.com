@@ -14,7 +14,7 @@ export default {
     next: false
   },
   docsRepositoryBase:
-    'https://github.com/giveawaysbot-me/docs.giveaways-bot.com',
+    'https://github.com/giveawaysbot-me/docs.giveaways-bot.com/tree/main/',
   editLink: {
     text: 'Edit this page on GitHub'
   },
