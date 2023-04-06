@@ -37,12 +37,12 @@ export default {
       <meta name="og:title" content="GiveAways | Documentation" />
       <meta name="og:image" content="/GiveAways.png" />
       <meta name="apple-mobile-web-app-title" content="GiveAways Docs" />
-      <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.discordapp.com/attachments/1003714890638303232/1068603211075825787/Rounded_20221113_102852.png" />
-      <link rel="icon" type="image/png" sizes="192x192" href="https://cdn.discordapp.com/attachments/1003714890638303232/1068603211075825787/Rounded_20221113_102852.png" />
-      <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.discordapp.com/attachments/1003714890638303232/1068603211075825787/Rounded_20221113_102852.png" />
-      <link rel="icon" type="image/png" sizes="96x96" href="https://cdn.discordapp.com/attachments/1003714890638303232/1068603211075825787/Rounded_20221113_102852.png" />
-      <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.discordapp.com/attachments/1003714890638303232/1068603211075825787/Rounded_20221113_102852.png" />      
-      <meta name="msapplication-TileImage" content="https://cdn.discordapp.com/attachments/1003714890638303232/1068603211075825787/Rounded_20221113_102852.png" />
+      <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.discordapp.com/attachments/1003714890638303232/1092081469343666287/blue.jpg" />
+      <link rel="icon" type="image/png" sizes="192x192" href="https://cdn.discordapp.com/attachments/1003714890638303232/1092081469343666287/blue.jpg" />
+      <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.discordapp.com/attachments/1003714890638303232/1092081469343666287/blue.jpg" />
+      <link rel="icon" type="image/png" sizes="96x96" href="https://cdn.discordapp.com/attachments/1003714890638303232/1092081469343666287/blue.jpg" />
+      <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.discordapp.com/attachments/1003714890638303232/1092081469343666287/blue.jpg" />      
+      <meta name="msapplication-TileImage" content="https://cdn.discordapp.com/attachments/1003714890638303232/1092081469343666287/blue.jpg" />
       <script src="https://cdn.tailwindcss.com"></script>
     </>
   },
