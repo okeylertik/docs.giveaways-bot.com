@@ -2,11 +2,6 @@
   "index": "Introduction",
   "versions": "Changelogs",
   "commands": "Commands",
-  "npm": "NPM Package",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",

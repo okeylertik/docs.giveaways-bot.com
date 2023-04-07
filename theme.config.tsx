@@ -60,9 +60,11 @@ export default {
       <span style={{ marginLeft: '.4em', fontWeight: 800, color: '#005ef5' }}>
         Docs
       </span>
+      {/*
       <span className="ml-2 py-0 px-1 font-mono text-xs no-underline text-blue-200 dark:text-blue-500 w-full bg-black border border-transparent border-blue-200 rounded-md bg-opacity-5 dark:bg-white dark:border-blue-700 dark:bg-opacity-5">
         v1.0.0
       </span>
+      */}
       </div>
     </>
   ),
